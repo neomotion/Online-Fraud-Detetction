@@ -11,8 +11,11 @@ pip install -r requirements.txt
 The main component of this repository is the Jupyter Notebook:
 
 1.OnlineFraudDetection.ipynb: Jupyter notebook for training and evaluating three different models for online fraud detection.
+
 2.Running the Notebook
+
 3.Open the Notebook:
+
 4.Open OnlineFraudDetection.ipynb in Jupyter Notebook.
 
 Follow the Instructions:
@@ -22,16 +25,23 @@ Follow the instructions provided in the notebook to preprocess the data, build t
 The OnlineFraudDetection.ipynb notebook includes steps for data preprocessing, which typically involve:
 
 1.Loading the Data: Load the dataset containing transaction records and their corresponding labels indicating whether the transaction is fraudulent or not.
+
 2.Data Cleaning: Handle missing values, outliers, and any inconsistencies in the data.
+
 3.Feature Engineering: Create or transform features that will be used as inputs to the models.
+
 4.Data Splitting: Split the dataset into training and testing sets to evaluate the model's performance on unseen data.
+
 5.Model Training
 
 The OnlineFraudDetection.ipynb notebook covers the following steps for model training:
 
 1.Logistic Regression: Train a logistic regression model on the preprocessed data.
+
 2.Decision Tree Classifier: Train a decision tree classifier on the preprocessed data.
+
 3.Naive Bayes Classifier: Train a naive Bayes classifier on the preprocessed data.
+
 4.Model Evaluation and Comparison
 
 The OnlineFraudDetection.ipynb notebook includes comprehensive evaluation and comparison of the three models:
