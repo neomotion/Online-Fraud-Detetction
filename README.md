@@ -37,7 +37,9 @@ The OnlineFraudDetection.ipynb notebook covers the following steps for model tra
 The OnlineFraudDetection.ipynb notebook includes comprehensive evaluation and comparison of the three models:
 
 1.Evaluation Metrics: Use metrics such as accuracy, precision, recall, F1-score, and ROC-AUC to evaluate the performance of each model.
+
 2.Model Comparison: Compare the models based on the evaluation metrics and discuss their strengths and weaknesses in the context of online fraud detection.
+
 3.Visualization: Visualize the performance of the models using plots and charts to provide a clear comparison.
 
 
